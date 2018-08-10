@@ -1,0 +1,22 @@
+.box{
+    font-size:16px;
+    color: #666;
+    font-family: "arial narrow";
+    background-color:rosybrown;
+}
+.img01{
+	width:20px;height:20px;
+	background:url('../img/list-2.png?__sprite')no-repeat center/20px;
+}
+.img02{
+	width:20px;height:20px;
+	background:url('../img/list-1.png?__sprite')no-repeat center/20px;
+}
+.img03{
+	width:20px;height:20px;
+	background:url('../img/6.jpg?__sprite')no-repeat center/20px;
+}
+.img04{
+	width:20px;height:20px;
+	background:url('../img/5.jpg?__sprite')no-repeat center/20px;
+}
