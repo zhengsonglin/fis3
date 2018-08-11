@@ -4,7 +4,7 @@
 >>css  
 >>js  
 >>img  
->>layout  
+>>layout(其他子页面)  
 >>index.html  
 #### 一、安装fis3（确保已经安装了node)
 执行cmd命令
