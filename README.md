@@ -6,7 +6,12 @@
 >>img  
 >>layout
 >>index.html
->>
+>数据结构  
+>>树  
+>>二叉树  
+>>平衡二叉树  
+>>满二叉树  
+>>满二叉树  
 #### 一、安装fis3（确保已经安装了node)
 执行cmd命令
 ```npm install -g fis3```
