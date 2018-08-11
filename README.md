@@ -6,6 +6,7 @@
 >>img  
 >>layout
 >>index.html
+>>
 #### 一、安装fis3（确保已经安装了node)
 执行cmd命令
 ```npm install -g fis3```
