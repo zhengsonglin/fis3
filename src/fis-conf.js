@@ -2,7 +2,10 @@
 //fis.match('*.{js,css,png,jpg}', {
 //	useHash: true
 //});
- 
+
+//启用插件,让所有文件都使用相对路径
+fis.hook('relative');
+
 fis.match('**', {
     relative: true
 })
