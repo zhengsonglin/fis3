@@ -3,8 +3,8 @@
 //	useHash: true
 //});
 
-//启用插件,让所有文件都使用相对路径
-fis.hook('relative');
+//启用插件,让所有文件都使用相对路径(如果需要绝对路径直接注释这一句即可)
+//fis.hook('relative');
 
 fis.match('**', {
     relative: true
